@@ -1,2 +1,2 @@
 # learning-git
-This Repi was used to learn 
+This Repo was used to learn git awhile ago
